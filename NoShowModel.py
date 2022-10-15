@@ -144,3 +144,6 @@ if __name__ == '__main__':
     result_2 = patient_2.predict_time_slots(bot_session_data_2, time_slots)
     print("Recomendation Result \n\n")
     print(result_2)
+
+
+ashni anadamozhi
